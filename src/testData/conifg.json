@@ -1,0 +1,14 @@
+[
+  {
+    "code": "ENTRANCE",
+    "name": "入口文件配置",
+    "value": [
+      {
+        "code": "weather",
+        "img": "",
+        "title": "天气预报",
+        "url": "/pages/weather/index"
+      }
+    ]
+  }
+]
